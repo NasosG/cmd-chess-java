@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/project2/Board.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>282</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/InvalidMoveException.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/Project2.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/Color.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/Piece.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/Bishop.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/InvalidLocationException.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/Game.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/Board.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/Knight.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/Queen.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/Empty.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/Location.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/Rook.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/King.java</file>
+            <file>file:/C:/Users/LosNasos/Documents/NetBeansProjects/project2/src/project2/Pawn.java</file>
+        </group>
+    </open-files>
+</project-private>
